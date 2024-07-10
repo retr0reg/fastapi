@@ -16,3 +16,4 @@ griffe-typingdoc==0.2.2
 # For griffe, it formats with black
 black==24.3.0
 mkdocs-macros-plugin==1.0.5
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
